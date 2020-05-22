@@ -24,6 +24,10 @@
 .font {
   font-size: 1.4rem;
 }
+.errorimg {
+  width: 20%;
+  margin: auto;
+}
 .nm {
   color: #5890ca;
   cursor: pointer;

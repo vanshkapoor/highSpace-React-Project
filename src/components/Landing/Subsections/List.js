@@ -28,8 +28,8 @@ const List = props => {
         <tbody>
           {props.customers.map(data => (
             <tr>
-              <td onClick={e => update(e, data.id)} className="nm" data-label="Name">
-                {data.id}
+              <td onClick={e => update(e, data._id)} className="nm" data-label="Name">
+                {data._id}
               </td>
               <td data-label="Age">{data.name}</td>
               <td data-label="Job">{data.age}</td>
