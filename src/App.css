@@ -1,0 +1,94 @@
+.menutop {
+  box-shadow: 1px 1px 8px -4px grey;
+  padding: 2px 42px 4px 38px;
+  background: white;
+}
+.biglower {
+  margin-left: 3%;
+}
+.font {
+  font-size: 1.3rem;
+}
+.count {
+  font-size: 3rem;
+  margin-left: 50px;
+}
+.date {
+  font-size: 1rem;
+  color: grey;
+}
+
+.gridcard {
+  background: white;
+}
+.font {
+  font-size: 1.4rem;
+}
+.nm {
+  color: #5890ca;
+  cursor: pointer;
+  font-weight: bold;
+}
+.uperrow {
+  margin-left: 3%;
+  margin-right: 2%;
+  height: 60vh;
+  box-shadow: 0px 1px 4px 0px #b9b9b9;
+}
+.uperrowall {
+  margin-left: 6%;
+  padding-bottom: 5px;
+  margin-right: -1%;
+  height: fit-content;
+  box-shadow: 0px 1px 4px 0px #b9b9b9;
+}
+.lowerrow {
+  /* margin-left: 2%; */
+  margin-top: 1%;
+  margin-right: 2%;
+  margin-bottom: 1%;
+  height: fit-content;
+  box-shadow: 0px 1px 4px 0px #b9b9b9;
+}
+
+.firstr {
+  margin-left: 3%;
+}
+
+.titlerecents {
+  position: sticky;
+  padding-top: 1%;
+  top: 0;
+  background: white;
+}
+.view {
+  width: fit-content;
+  top: 2%;
+  position: absolute;
+  right: 13px;
+}
+.countmain {
+  padding-top: 5%;
+}
+.vistitle {
+  margin-left: 15%;
+  padding: 11px 0px 5px 12px;
+}
+
+.ui.grid > .row > .column {
+  margin-top: 0;
+  margin-bottom: 1%;
+}
+.loader {
+  margin-left: 40%;
+  width: 34%;
+}
+.yellow {
+  color: yellow;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
