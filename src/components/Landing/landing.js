@@ -57,7 +57,7 @@ const All = () => {
         <div className="row">
           <div className="two wide column "></div>
 
-          <div className="five wide column gridcard uperrowall animated pulse">
+          <div className="eight wide column gridcard uperrowall2 animated pulse">
             <h2 className="titlerecents">All Customers</h2>
             <hr />
             {loading ? (

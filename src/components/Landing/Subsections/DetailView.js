@@ -18,7 +18,7 @@ const Detail = props => {
             <div class="date">added on {obj.date.split("T")[0]}</div>
           </div>
           <div class="extra text">
-            <b>Customer ID : {obj.id}</b>
+            <b>Customer ID : {obj._id}</b>
             {}
             <br />
             <b>Age : </b>
